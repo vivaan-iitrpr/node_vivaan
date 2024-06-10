@@ -16,6 +16,7 @@ that discourage, exhaust, or otherwise negatively affect other participants.
 **This project has a [Code of Conduct][].**
 
 ## Table of contents
+# Vivaan Garg
 
 * [Support](#support)
 * [Release types](#release-types)
